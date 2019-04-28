@@ -5,11 +5,10 @@
 > Respectively, revise your prototype as an attempt to fix any problems found in this Usability Evaluation.
 
 ## Operating the Prototype
-> Record a video (screen-recording is preferred) while you operating your prototype.
-> Present the ideal case on how to interact with the prototype from the beginning to the end.
-> Upload the video on any video-sharing website (e.g., YouTube), then attach the video link on this report.
 
-[![Prototype Video](http://img.youtube.com/vi/IYG0LkOd58M/0.jpg)](https://youtu.be/IYG0LkOd58M?t=72)
+<img src="home1.png">
+High Fidelity Prototype Link Youtube
+https://youtu.be/AiMd5t_Re90
 
 ---
 
@@ -21,25 +20,29 @@
 > You can benefit from the videotape while writing your `Recording Transcript` later.
 
 ### 1. Brief Description of Participants
-> Describe your participants in bullets or sentences.
-> The description should contain their demographic (age, gender, occupation),
-> their skill level in using the system, and your reasons choosing them.
-> The description should NOT contain any personally identifiable information.
 
 #### a. Description of Participant 1
- - The Quick 
- - Brown Fox 
- - Jumps Over 
- - The Lazy Dog
+* The user is a female
+* She is 21 years old
+* She is a student in State Administration in Airlangga University
+* She has experience using a website. There are for shopping, look her GPA on UNAIR website and do her homework.
+* Why i choose her? because she is my informant in my assignment-1. She is a student in UNAIR and never have entered ITS, she doesnot know about itsfood.id
 
 #### b. Description of Participant 2
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+* The user is a male
+* He is 19 years old
+* He is a student in Industrial Engineering in ITS
+* He has experience using a website for do his homework, shopping ad read a commic.
+* Why i choose him? because he is in first year od collage in ITS, and he has a little information about programming (from his lecture in Algoritma Pemrograman ), then he doesnot know about itsfood.id website.
 
 ### 2. Evaluation Script
-> Write the questions you ask and the instructions you use to direct the participants on what to do.
-> If it is the same as previous assignments, please mention this, yet go ahead and INCLUDE it again,
-> so we have everything in one place.
-> Note that the evaluation script must include exactly what you plan to say to the participants.
+<p>There are six instruction for the user. BEllow is the following instruction: </p>
+* Try to register
+* Try to login
+* Try to find FAQ feature
+* Try to search some food
+* Try to find information about the contact and social media of itsfood.id
+* Try to order some food
 
 ### 3. Transcript
 > Provide a summary of what the participant did and said, and what you did and said.
