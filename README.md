@@ -55,10 +55,55 @@ https://youtu.be/AiMd5t_Re90
 > Remember to supplement the transcript with time-codes or line-numbers.
 
 #### a. Transcript with Participant 1
- 1. **You**: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
- 1. **Participant**: Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
- 1. **You**: when an unknown printer took a galley of type and scrambled it to make a type specimen book.
- 1. **Participant**: The Quick Brown Fox Jumps Over The Lazy Dog.
+
+```
+1. Me	: "Ini adalah sebuah prototype. Protype itu kayak gambar tpi kita bisa klik. Kalo kita klik ini nanti pindah ke gambar lain. Jadi kita ga bisa input. kita cuma bisa klik tombol buat ganti gambar. Nanti aku kasih beberapa instruksi, kamu ngejalanin sesuai yang aku instruksiku. Kalo misal ada masalah, tombolnya susah dicari , tulisannya kurang jelas atau apapun tetang tampilannya kamu bilang aja."
+2. User	:"Oke fhir!"
+3. Me	: "Oke. Langsung aja ke pertanyaannya. Pertama, Apakah kamu pernah memesan makanan atau minuman secara online?"
+4. User	: "Pernah, pake grabfood."
+5. Me	: "Cara mengoperasikannya gimana?"
+6. User	: "Ya kamu pilih makanannya terus nunggu dapet driver. Trus nanti dianter dan dibeliin sama drivernya. Terus kita bayar pakai OVO atau tunai."
+7. Me	: "Apakah kamu pernah mencoba web itsfood.id"
+8. User	: "Pernah, dulu waktu kamu suruh review itu."
+9. Me	: "Terus kemaren gimana?"
+10. User	: "Waktu itu, aku ga bisa bikin account atau masuk account disitu jadinya ga bisa order."
+11. Me	: "Oke. Yaudah sekarang ke instruksinya aja. Coba kamu bikin akun"
+12. User	: "Oke. Klik tombol Daftar, trus ngisi Nama, Email, Password, Konfirm Password. trus klik Daftar"
+13. (dilihat dari kecepatan dalam menjalankan instruksi, user terlihat mudah dalam menjalankan instruksi)
+14. Me	: "Coba kamu Sign in"
+15. User	: "Klik tombol Masuk. Ngisi input Email sama Password trus klik Masuk"
+16. (dilihat dari kecepatan dalam menjalankan instruksi, user terlihat mudah dalam menjalankan instruksi)
+17. Me	: "Coba kamu cari tau tentang Frequently Asked Question"
+18. User	: "Klik tombol FAQ. Terus udah"
+19. (user terlihat berpikir)
+20. Me	: "Ada masalah kah?"
+21. User	: "Kalo menurutku ya, ini design nya terlalu kaku. Kan kita ini anak muda , kayak kurang mearik gitu. Tapi , kalau dilihat dari kejelasan, ini jelas sih cuman perlu ditambah aja buat font dan warnanya mungkin, jadi lebih fun"
+22. Me	: "Oke. Coba kamu cari tombol search biar kalo nyari makanan atau minuman atau cemilan biar cepat."
+23. User	: "Klik tombol search, trus ngisi input . terus klik tombol ini"
+24. Me	: "Oke. Coba kamu cari informasi tenatng kontak dan social media dari itsfood.id"
+25. User	: "Klik ini, trus klik Kontak, udah ini"
+26. Me	: "Oke, coba kamu order makanan, apa aja"
+27. (user terlihat bingung untuk mencari daftar menu yang bisa di klik untuk menambah)
+28. (user membuka halaman makanan)
+29. (user membuka halaman search)
+30. User	: "ini bukan? oh bukan ya"
+31. (user kembali ke beranda home)
+32. (user scroll pada halaman beranda home)
+33. User	: "Oh ini yaaa..."
+34. User	: "Klik ini tambahkan. Semua menu?"
+35. Me	: "Ya terserah kamu"
+36. User	: "Oke"
+37. Me	: "Terus habis pesan makanan?"
+38. User	: "Klik ini ya tombol troll, terus check out"
+39. (user melihat halaman data customer dan pesanan)
+40. User	: "Kalo menurutku ya, di deket jumlah ini ada tombol buat nambah dan ngurangin ordernya. Jadi kita ga perlu kembali ke halaman pilih makanan buat nambah order."
+41. Me	: "Oke."
+42. User	: "Terus klik Konfirmasi"
+43. Me	: "Oke terus menurutmu design ini gimana kalo dibandingin sama yang kemaren dan menurutmu secara keseluruhan?"
+44. User	: "Menurutku sih kalo dari kemudahan akses, ini lebih mudah dioperasikan daripada yang kemaren. Terus tombol-tombolnya tuh kayak yang mudah dicari. Terus kalo menurutku ya, font nya tuh dibikin lebih menarik lagi. Terus gambar makanan nya tuh kurang, jadi kurang gambarin kalo dia website buat pesen makanan"
+(user menunjuk ke halaman home)
+45. Me	: "Oke makasih."
+```
 
 #### b. Transcript with Participant 2
  - **00:01** 👨‍🔬 You: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
