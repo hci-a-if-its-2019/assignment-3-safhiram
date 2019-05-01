@@ -12,14 +12,14 @@ https://youtu.be/AiMd5t_Re90
 
 ### 1. Brief Description of Participants
 
-#### a. Description of Participant 1
+#### a. Description of User 1
 * The user is a female
 * She is 21 years old
 * She is a student in State Administration in Airlangga University
 * She has experience using a website. There are for shopping, look her GPA on UNAIR website and do her homework.
 * Why i choose her? because she is my informant in my assignment-1. She is a student in UNAIR and never have entered ITS, she doesnot know about itsfood.id
 
-#### b. Description of Participant 2
+#### b. Description of User 2
 * The user is a male
 * He is 19 years old
 * He is a student in Industrial Engineering in ITS
@@ -107,7 +107,7 @@ https://youtu.be/AiMd5t_Re90
 46.	Me	: "Okay makasih.."
 ```
 
-#### b. Transcript with Participant 2
+#### b. Transcript with User 2
 
 ```
 1.	Me   	: "Ini adalah sebuah prototype. Prototype itu kayak gambar tpi kita bisa klik. 
