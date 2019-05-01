@@ -331,21 +331,6 @@ https://youtu.be/AiMd5t_Re90
 > Afterwards, scan the sketch or make the photograph of it and attach it on this report's section.
 > Please make sure the any texts on the sketch are readable.
 
-#### Home page
-<img src="home_sketch1.jpg">
-
-#### Data Customer and Data Pesanan page / Confirmation page
-<img src="data_sketch.jpg">
-
-#### List of food page
-<img src="makanan_sketch1.jpg">
-
-#### List of beverage page
-<img src="minuman_sketch1.jpg">
-
-#### List of snacks page
-<img src="cemilan_sketch.jpg">
-
 ### Design Rationale
 > Please write a paragraph expressing what you have learned from the usability evaluation, 
 > and how it is reflected in your design.
