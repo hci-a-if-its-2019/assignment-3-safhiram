@@ -161,54 +161,196 @@ https://youtu.be/AiMd5t_Re90
 ```
 
 ### 4. Feedback and Incidence Analysis
-> Record your observations per prototype screen followed by reference, feedback, incidence, reason, and resolution.
+
 
 #### OBSERVATION 1
-![Prototype Screen 1](https://www.europassitalian.com/wp-content/uploads/2018/02/bravolol-app-screenshot-1-635x1128.png)
 
- - **Reference**: Provide line-number(s) or time-code(s) referred by feedback/incidence observed on the screen.
- - **Feedback**: Provide feedback (positive or negative) given by the participants, if any.
- - **Incidence**: Critical incidences (breakdowns or problems encountered by the participants) and/or mistakes committed by the participants, if any.
- - **Reason**: Explain the reason for the breakdowns or the negative feedback observed on the screen.
- - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 1`.
+<img src="obv-1.PNG">
+
+ - **Reference**: User1(Line : 45) , User2(Line: 33,39)
+ - **Feedback**: 
+ <p>User1[Line :  45] -> Positive	:  The button easy to find</p>
+ <p>User2[Line: 33, 39] -></p>
+             <p>Negative	: Place of FAQ button and name of FAQ</p>
+             <p>Negative	: If we want to cancel the order directly</p>
+
+ - **Incidence**: 
+  <p>1.	When the user do my instruction to find some information about ‘how  to order’ in this page.</p>
+  <p>2.	When the user make a mistake to choose some food</p>
+
+ - **Reason**: 
+ <p>Incidance 1 : User is not familiar with FAQ.</p>
+<p>Incidance 2 : There is no cancel order button</p>
+
+ - **Resolution**:
+ <p>Incidance 1 : Change button name from FAQ to ‘How to Order’ and place the button in dropdown menu.</p>
+<p>Incidance 2 : Make cancel button when we click ‘Tambah’ button</p>
+
  
 #### OBSERVATION 2
-![Prototype Screen 2](https://www.studiainitalia.com/wp-content/uploads/2017/02/free-courses-Learn-Italian-Online.jpg)
+<img src="daftar.png">
 
- - **Reference**: 
- - **Feedback**: 
- - **Incidence**: 
- - **Reason**: 
- - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 2`.
+ - **Reference**: -
+ - **Feedback**: -
+ - **Incidence**: -
+ - **Reason**: -
+ - **Resolution**: -
  
 #### OBSERVATION 3
-![Prototype Screen 3](https://www.jbklutse.com/wp-content/uploads/2019/01/language-learning-apps.png)
+<img src="masuk.png">
 
- - **Reference**:  
- - **Feedback**: 
- - **Incidence**: 
- - **Reason**: 
- - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 3`.
+ - **Reference**: -
+ - **Feedback**: -
+ - **Incidence**: -
+ - **Reason**: -
+ - **Resolution**: -
  
- ... and so on ...
+ #### OBSERVATION 4
+<img src="faq.png">
+
+ - **Reference**: 
+ <p>User1(Line : 19)</p>
+ 
+ - **Feedback**: 
+ <p>Positive	: The faq about how to order and some requirement is enough clear.</p>
+ 
+ - **Incidence**: -
+ - **Reason**: -
+ - **Resolution**: -
+ 
+ #### OBSERVATION 5
+<img src="search.png">
+
+ - **Reference**: -
+ - **Feedback**: -
+ - **Incidence**: -
+ - **Reason**: -
+ - **Resolution**: -
+ 
+ #### OBSERVATION 6
+<img src="kontak.png">
+
+ - **Reference**: -
+ - **Feedback**: -
+ - **Incidence**: -
+ - **Reason**: -
+ - **Resolution**: -
+ 
+ #### OBSERVATION 7
+<img src="troll.png">
+
+ - **Reference**: -
+ - **Feedback**: -
+ - **Incidence**: -
+ - **Reason**: -
+ - **Resolution**: -
+ 
+  #### OBSERVATION 8
+<img src="obv-data.PNG">
+
+ - **Reference**:
+  <p>User1(Line : 41)</p>
+  <p>User2(Line : 37) </p>
+
+ - **Feedback**: 
+<p>Negative : Make a plus and min button to add or subtract some order in next coloum ‘Jumlah’.</p>
+<p>Negative : Add a color in Menu-Harga-Jumlah-Subtotal row.</p>
+
+ - **Incidence**: 
+ <p>  1.	When she want to add order for some menu.</p>
+  <p> 2.	He feel difficult to read the table.</p>
+
+ - **Reason**: 
+  <p> Insiden 1 : In Data Pesanan Table , there is no button for add or subtract some menu</p>
+  <p> Insiden 2 : There is no color in the row on Menu-Harga-Jumlah-Subtotal, so he feel difficult to read.</p>
+
+ - **Resolution**: 
+  <p> •	Make a plus and min button to add or subtract some order in next coloum ‘Jumlah’.</p>
+  <p> •	Add a color in Menu-Harga-Jumlah-Subtotal row and make it like a table</p>
+
+ 
+  #### OBSERVATION 9
+<img src="obv-makanan.PNG">
+
+ - **Reference**:
+ <p>User1( Line : 26-30,37)</p>
+<p>User2(Line : 28-29)</p>
+
+ - **Feedback**: Negative
+ - **Incidence**: 
+ <p>When user 1 and 2 do instruction to order some food.</p>
+ 
+ - **Reason**:
+ <p>From their action , they think that to add some food in this page.</p>
+ 
+ - **Resolution**: 
+ <p>Add food image and “Tambah” button to choose some menu.</p>
+ 
+  #### OBSERVATION 10
+<img src="obv-minuman.PNG">
+
+ - **Reference**:
+ <p>User1(Line : 37)</p>
+ 
+ - **Feedback**: Negative
+ 
+ - **Incidence**: 
+ <p>When user 1 do instruction to order some food.</p>
+ 
+ - **Reason**: 
+ <p>From their action , she think that to add some food in this page.</p>
+ 
+ - **Resolution**: 
+ <p>Add food image and “Tambah” button to choose some menu.</p>
+ 
+  #### OBSERVATION 11
+<img src="obv-cemilan.PNG">
+
+ - **Reference**:
+ <p>User1(Line : 37)</p>
+ 
+ - **Feedback**: Negative
+ 
+ - **Incidence**: 
+ <p>When user 1 do instruction to order some food.</p>
+ 
+ - **Reason**: 
+ <p>From their action , she think that to add some food in this page.</p>
+ 
+ - **Resolution**: 
+ <p>Add food image and “Tambah” button to choose some menu.</p>
+ 
  
  ---
 
 ## Part B: Prototyping (again)
-> Next, you will need to modify your prototype 
-> based on the resolutions you have suggested in `Feedback and Incidence Analysis`'s observations.
+
 
 ### Sketch
 > Draw a sketch of your prototype that is refined based according to the aforementioned observations on a paper.
 > Afterwards, scan the sketch or make the photograph of it and attach it on this report's section.
 > Please make sure the any texts on the sketch are readable.
 
-![Sketch of Refined Prototype](https://cdn2.hubspot.net/hub/725165/file-3421843765-png/blog-files/uxpin--300x211.png)
+#### Home page
+<img src="home_sketch.jpg">
+
+#### Data Customer and Data Pesanan page / Confirmation page
+<img src="data_sketch.jpg">
+
+#### List of food page
+<img src="makanan_sketch.jpg">
+
+#### List of beverage page
+<img src="minuman_sketch.jpg">
+
+#### List of snacks page
+<img src="cemilan_sketch.jpg">
 
 ### Design Rationale
 > Please write a paragraph expressing what you have learned from the usability evaluation, 
 > and how it is reflected in your design.
 
 ### High-Fidelity Interactive-Prototype
-> Create a high-fidelity interactive-prototype based on the `Sketch` you have drawn.
-> You can use any prototyping tools: InVision, Adobe XD, or even Microsoft PowerPoint.
+
+#### High-Fidelity Interactive-Prototype Revision
+https://invis.io/DPRSSA6YXRA#/360952118_Gabungan
