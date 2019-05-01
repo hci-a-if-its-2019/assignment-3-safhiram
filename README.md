@@ -27,6 +27,14 @@ https://youtu.be/AiMd5t_Re90
 * Why i choose him? because he is in first year od collage in ITS, and he has a little information about programming (from his lecture in Algoritma Pemrograman ), then he doesnot know about itsfood.id website.
 
 ### 2. Evaluation Script
+
+ #### QUESTION
+ 
+ * Have you ever ordered food or drinks online?
+ * If you (the user) have, how do you operate it?
+ * Have you ever tried to order food or drinks in itsfood.id?
+ 
+ #### INSTRUCTION
 <p>There are six instruction for the user. BEllow is the following instruction: </p>
 
 * Try to register
@@ -327,13 +335,13 @@ https://youtu.be/AiMd5t_Re90
 
 
 ### Sketch
-> Draw a sketch of your prototype that is refined based according to the aforementioned observations on a paper.
-> Afterwards, scan the sketch or make the photograph of it and attach it on this report's section.
-> Please make sure the any texts on the sketch are readable.
+
 
 ### Design Rationale
-> Please write a paragraph expressing what you have learned from the usability evaluation, 
-> and how it is reflected in your design.
+<p>I designed first prorotype from some evaluation in my assignment-1. Then i do usability evaluation to get some breakdowns to make my design is more better.</p>
+<p>In this evaluation, i change the place of FAQ buttin and the name of FAQ button, so the user will more understand, when the user want to get information about How to order some food in this website. Then, when i give instruction to the user to order some food. The user confuse where is the list of the menu. User think that to add some food, the user go to "makanan","minuman" or "cemilan" page. So i change those page with add some button to add some menu. When the user add some menu, i make cancel order button because when the user add some food, by accident the user make mistake to choose a menu. The in confirmation page, i change the design 'Data Pesanan' , i make a table , so the user is more easy to read. I add some button to add and subtract directly too</p>
+<p>In conclusion, with usability evaluation, we know our mistake,so we will make a revision of our design to get a design which is better and comfortable fos us and for the user</p>
+
 
 ### High-Fidelity Interactive-Prototype
 
