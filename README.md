@@ -335,7 +335,10 @@ https://youtu.be/AiMd5t_Re90
 
 
 ### Sketch
+<img src="sketch.PNG">
 
+<p>Link to my freehand sketch on invison</p>
+https://projects.invisionapp.com/freehand/document/UikyRiVdo
 
 ### Design Rationale
 <p>I designed first prorotype from some evaluation in my assignment-1. Then i do usability evaluation to get some breakdowns to make my design is more better.</p>
