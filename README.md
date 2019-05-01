@@ -1,8 +1,4 @@
 # Usability Evaluation and Prototyping (again)
-> Usability Evaluation in this assignment is to evaluate your high-fidelity interactive-prototype with two participants:
-> the participant from the previous Contextual Inquiry (CI) 
-> and an additional novice-participant with different demographics if possible.
-> Respectively, revise your prototype as an attempt to fix any problems found in this Usability Evaluation.
 
 ## Operating the Prototype
 
@@ -13,11 +9,6 @@ https://youtu.be/AiMd5t_Re90
 ---
 
 ## Part A: Usability Evaluation
-> In this part, you should prepare your high-fidelity interactive-prototype from the assignment 2.
-> Invite the participant from your previous CI to test the prototype.
-> You also need to invite one more novice participant.
-> As with the CI, you might need to videotape your sessions.
-> You can benefit from the videotape while writing your `Recording Transcript` later.
 
 ### 1. Brief Description of Participants
 
@@ -46,70 +37,128 @@ https://youtu.be/AiMd5t_Re90
 * Try to order some food
 
 ### 3. Transcript
-> Provide a summary of what the participant did and said, and what you did and said.
-> If at some points you have to help the participants, because they cannot figure out what to do,
-> that scene must be included in the transcript.
-> It is not necessary to write down every word the participant said,
-> just what is interesting and useful.
-> Ensure to write down all the actions on the device, whether correct or wrong.
-> Remember to supplement the transcript with time-codes or line-numbers.
 
-#### a. Transcript with Participant 1
+#### a. Transcript with User 1
 
 ```
-1. Me   : "Ini adalah sebuah prototype. Protype itu kayak gambar tpi kita bisa klik. Kalo kita klik ini nanti pindah ke gambar lain. Jadi kita ga bisa input. kita cuma bisa klik tombol buat ganti gambar. Nanti aku kasih beberapa instruksi, kamu ngejalanin sesuai yang aku instruksiku. Kalo misal ada masalah, tombolnya susah dicari , tulisannya kurang jelas atau apapun tetang tampilannya kamu bilang aja."
-2. User	:"Oke fhir!"
-3. Me	  : "Oke. Langsung aja ke pertanyaannya. Pertama, Apakah kamu pernah memesan makanan atau minuman secara online?"
-4. User	: "Pernah, pake grabfood."
-5. Me	  : "Cara mengoperasikannya gimana?"
-6. User	: "Ya kamu pilih makanannya terus nunggu dapet driver. Trus nanti dianter dan dibeliin sama drivernya. Terus kita bayar pakai OVO atau tunai."
-7. Me	  : "Apakah kamu pernah mencoba web itsfood.id"
-8. User	: "Pernah, dulu waktu kamu suruh review itu."
-9. Me	  : "Terus kemaren gimana?"
-10. User: "Waktu itu, aku ga bisa bikin account atau masuk account disitu jadinya ga bisa order."
-11. Me	 : "Oke. Yaudah sekarang ke instruksinya aja. Coba kamu bikin akun"
-12. User: "Oke. Klik tombol Daftar, trus ngisi Nama, Email, Password, Konfirm Password. trus klik Daftar"
-13. (dilihat dari kecepatan dalam menjalankan instruksi, user terlihat mudah dalam menjalankan instruksi)
-14. Me	 : "Coba kamu Sign in"
-15. User: "Klik tombol Masuk. Ngisi input Email sama Password trus klik Masuk"
-16. (dilihat dari kecepatan dalam menjalankan instruksi, user terlihat mudah dalam menjalankan instruksi)
-17. Me	 : "Coba kamu cari tau tentang Frequently Asked Question"
-18. User: "Klik tombol FAQ. Terus udah"
-19. (user terlihat berpikir)
-20. Me	 : "Ada masalah kah?"
-21. User: "Kalo menurutku ya, ini design nya terlalu kaku. Kan kita ini anak muda , kayak kurang mearik gitu. Tapi , kalau dilihat dari kejelasan, ini jelas sih cuman perlu ditambah aja buat font dan warnanya mungkin, jadi lebih fun"
-22. Me	 : "Oke. Coba kamu cari tombol search biar kalo nyari makanan atau minuman atau cemilan biar cepat."
-23. User: "Klik tombol search, trus ngisi input . terus klik tombol ini"
-24. Me	 : "Oke. Coba kamu cari informasi tenatng kontak dan social media dari itsfood.id"
-25. User: "Klik ini, trus klik Kontak, udah ini"
-26. Me	 : "Oke, coba kamu order makanan, apa aja"
-27. (user terlihat bingung untuk mencari daftar menu yang bisa di klik untuk menambah)
-28. (user membuka halaman makanan)
-29. (user membuka halaman search)
-30. User: "ini bukan? oh bukan ya"
-31. (user kembali ke beranda home)
-32. (user scroll pada halaman beranda home)
-33. User: "Oh ini yaaa..."
-34. User: "Klik ini tambahkan. Semua menu?"
-35. Me	 : "Ya terserah kamu"
-36. User: "Oke"
-37. Me	 : "Terus habis pesan makanan?"
-38. User: "Klik ini ya tombol troll, terus check out"
-39. (user melihat halaman data customer dan pesanan)
-40. User: "Kalo menurutku ya, di deket jumlah ini ada tombol buat nambah dan ngurangin ordernya. Jadi kita ga perlu kembali ke halaman pilih makanan buat nambah order."
-41. Me	 : "Oke."
-42. User: "Terus klik Konfirmasi"
-43. Me	 : "Oke terus menurutmu design ini gimana kalo dibandingin sama yang kemaren dan menurutmu secara keseluruhan?"
-44. User: "Menurutku sih kalo dari kemudahan akses, ini lebih mudah dioperasikan daripada yang kemaren. Terus tombol-tombolnya tuh kayak yang mudah dicari. Terus kalo menurutku ya, font nya tuh dibikin lebih menarik lagi. Terus gambar makanan nya tuh kurang, jadi kurang gambarin kalo dia website buat pesen makanan"
-(user menunjuk ke halaman home)
-45. Me	 : "Oke makasih."
+1.	Me   	: "Ini adalah sebuah prototype. Prototype itu kayak gambar tpi kita bisa klik. 
+                   Kalo kita klik ini nanti pindah ke gambar lain. Jadi kita ga bisa input. 
+                   kita cuma bisa klik tombol buat ganti gambar. Nanti aku kasih beberapa instruksi, 
+                   kamu ngejalanin sesuai yang aku instruksiku. Kalo misal ada masalah, tombolnya susah 
+                   dicari , tulisannya kurang jelas atau apapun tetang tampilannya kamu bilang aja."
+2.	User1	:"Oke fhir!"
+3.	Me	: "Oke. Langsung aja ke pertanyaannya. Pertama, Apakah kamu pernah memesan makanan atau minuman secara online?"
+4.	User1	: "Pernah, pake grabfood."
+5.	Me	   : "Cara mengoperasikannya gimana?"
+6.	User1	: "Ya kamu pilih makanannya terus nunggu dapet driver. Trus nanti dianter dan dibeliin 
+                   sama drivernya. Terus kita bayar pakai OVO atau tunai."
+7.	Me	: "Apakah kamu pernah mencoba web itsfood.id?"
+8.	User1	: "Pernah, dulu waktu kamu suruh review itu."
+9.	Me	: "Terus kemaren gimana?"
+10.	User1	: "Waktu itu, aku ga bisa bikin account atau masuk account disitu jadinya ga bisa order."
+11.	Me	: "Oke. Yaudah sekarang ke instruksinya aja. Coba kamu bikin akun"
+12.	User1	: "Oke. Klik tombol Daftar, trus ngisi Nama, Email, Password, Konfirm Password. trus klik Daftar"
+13.	Me	: "Coba kamu Sign in"
+14.	User1	: "Klik tombol Masuk. Ngisi input Email sama Password trus klik Masuk"
+15.	Me	: "Coba kamu cari tau tentang Frequently Asked Question"
+16.	User1	: "Klik tombol FAQ. Terus udah"
+17.	(user terlihat berpikir)
+18.	Me	: "Ada masalah kah?"
+19.	User1	: "Kalo menurutku ya, ini design nya udah jelas sih. Kalimat buat menjelaskan cara pesan juga udah jelas. 
+                   Trus design nya simpel."
+20.	Me	: "Oke. Coba kamu cari tombol search biar kalo nyari makanan atau minuman atau cemilan biar cepat."
+21.	User1	: "Klik tombol search, trus ngisi input . terus klik tombol ini"
+22.	(user menunjuk tombol search)
+23.	Me	: "Oke. Coba kamu cari informasi tenatng kontak dan social media dari itsfood.id"
+24.	User1	: "Klik ini, trus klik Kontak, udah ini"
+25.	Me	: "Oke, coba kamu order makanan, apa aja"
+26.	(user terlihat bingung untuk mencari daftar menu yang bisa di klik untuk menambah)
+27.	(user membuka halaman makanan)
+28.	(user membuka halaman search)
+29.	User1	: "ini bukan? oh bukan ya"
+30.	(user kembali ke beranda home)
+31.	(user scroll pada halaman beranda home)
+32.	User1	: "Oh ini yaaa..."
+33.	User1	: "Klik ini tambahkan. Semua menu?"
+34.	Me	: "Ya terserah kamu"
+35.	User	: "Oke"
+36.	Me	: “Kok bisa lama tadi nemu makanan nya?”
+37.	User1	: “Kalo menurutku ya, langsung aja di halaman makanan tu ada menu nya trus ditambahkan. 
+                   Ini kan cuma di beranda aja (user menunjuk halaman home). Tapi, aku dapet maksudmu sih, 
+                   ini kan cuma contoh. Tapi sebaiknya dikasih aja yang di halaman makanan , minuman sama cemilan. ”
+38.	Me	: "Oke. Terus habis pesan makanan?"
+39.	User1	: "Klik ini ya tombol troll, terus check out"
+40.	(user melihat halaman data customer dan pesanan)
+41.	User1	: "Kalo menurutku ya, di deket jumlah ini ada tombol buat nambah dan ngurangin ordernya. 
+                   Jadi kita ga perlu kembali ke halaman pilih makanan buat nambah order."
+42.	Me	: "Oke."
+43.	User1	: "Terus klik Konfirmasi"
+44.	Me	: "Oke terus menurutmu design ini gimana kalo dibandingin sama yang kemaren dan menurutmu secara keseluruhan?"
+45.	User1	: "Menurutku sih kalo dari kemudahan akses, ini lebih mudah dioperasikan daripada yang kemaren. 
+                   Terus tombol-tombolnya tuh kayak yang mudah dicari (user melihat halaman home)."
+46.	Me	: "Okay makasih.."
 ```
 
 #### b. Transcript with Participant 2
- - **00:01** 👨‍🔬 You: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
- - **00:10** 👨‍💻 Participant: Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
- - **00:17** 👨‍🔬 You: when an unknown printer took a galley of type and scrambled it to make a type specimen book.
- - **00:25** 👨‍💻 Participant: The Quick Brown Fox Jumps Over The Lazy Dog.
+
+```
+1.	Me   	: "Ini adalah sebuah prototype. Prototype itu kayak gambar tpi kita bisa klik. 
+                   Kalo kita klik ini nanti pindah ke gambar lain. Jadi kita ga bisa input. 
+                   kita cuma bisa klik tombol buat ganti gambar. Nanti aku kasih beberapa instruksi, 
+                   kamu ngejalanin sesuai yang aku instruksiku. Kalo misal ada masalah, tombolnya susah 
+                   dicari , tulisannya kurang jelas atau apapun tetang tampilannya kamu bilang aja."
+2.	User2	:"Oke mbak."
+3.	Me	: “Oke mulai ya . Untuk pertanyaan pertama, apakah kamu pernah memesan makanan secara online?”
+4.	User2	: “Pernah.”
+5.	Me	: “Pake apa? Gimana caranya?”
+6.	User2	: “Pake Grab kalo gak Gojek. Kalo dari website cuma pernah liat di online shopping sih , 
+                    kayak di tokopedia gitu. Tapi aku ga pesen , soalnya itukan cuma daerah Jakarta doang.”
+7.	Me	: “Kamu tau gak website itsfood.id yang aslinya?”
+8.	User2	: “Gatau, emang ada to mbak?”
+9.	Me	: “Iya ada.”
+10.	User2	: “Owalah, baru tau malah.”
+11.	Me	: “Oke mulai instruksinya ya”
+12.	Me	: “Yang pertama, coba kamu bikin akun”
+13.	User2	: “ini klik daftar, terus ngisi ini ini, trus klik daftar”
+14.	Me	: “okay, coba kamu sign in”
+15.	User2	: “klik masuk trus ngisi email password, trus klik masuk.”
+16.	Me	: “coba kamu cari informasi kayak gimana cara pesen makanan disini.”
+17.	(user membuka halaman makanan)
+18.	(user membuka halaman homepage)
+19.	User2	: “Oh, aku tau, FAQ deng yaa”
+20.	(user membuka halaman FAQ)
+21.	Me	: “kok tadi kayak agak bingung nyari tombol FAQ nya kenapa?”
+22.	User2	: “soalnya kalo misal aku pake suatu aplikasi atau website yang baru jarang sih liat halaman FAQ, 
+                  jadi kalo menurutku ya mbak, ini jangan ditampilin di atas sini (user menunjuk bagian navbar pada home page), 
+                  mending di tampilin di yang ini (user menunjuk dropdown menu). Kalo menurutku pribadi kayak kurang penting 
+                  dan orang juga ga jarang yang buka halaman ini.”
+23.	Me	: “Owalah gitu, oke. Coba kamu sekarang cari tombol search untuk cari makanan”
+24.	User2	: “Klik tombol gambar search ini, terus ngisi nama makanan nya disini , terus klik tombol search ini. Udah gitu.”
+25.	Me	: “Oke, terus sekarang coba kamu cari informasi tentang kontak dan social media dari itsfood.id”
+26.	User2	: “Klik ini (user menunjuk ke tombol dropdown menu). Lalu klik Kontak. Udah ini mbak”
+27.	Me	: “Coba kamu order makanan”
+28.	(user membuka halaman makanan)
+29.	(user kembali ke home page)
+30.	User2	: “Oh ini, trus klik tambah, trus ada tulisan Pesanan Telah Ditambahkan.”
+31.	(user berpikir sejenak)
+32.	Me	: “Ada masalah? Apa yang lagi kamu pikirin?”
+33.	User2	: “Menurutku ya mbak, ini kurang tombol cancel pesan gitu, kan bisa aja kalo kepencet, padahal aku 
+                  ga mau pesan menu itu. Tapi juga bisa langsung ke tombol ini sih (user menunjuk tombol troll). Trus langsung check 
+                  out. Trus konfirmasi. Udah gitu”
+34.	Me	: “Oh iya ya.”
+35.	(user melihat halaman data customer dan data pesanan)
+36.	Me	: “Apa yang lagi kamu pikirin?”
+37.	User2	: “Ini sih mbak , di bagian tabel yang data pesanan. Yang bagian atas ini ada menu, harga, jumlah , subtotal. 
+                  Itu mending di blok jadi ada warnanya. Jadi lihatnya ga bingung.”
+38.	Me	: "Menurutmu design ini secara keseluruhan?"
+39.	User2	: “Ini yang tombol FAQ nya ditaruh ke ini aja (user menunjuk dropdown menu), biar yang di atas ini (navbar) ga terlalu penuh. 
+                  Untuk tombol troll sama search nya udah bener sih. Trus untuk FAQ nya itu mending namanya diganti jadi ‘Cara Pesan’.”
+40.	Me	: “Oke, ada lagi?”
+41.	User2	: “Udah sih mbak, itu aja.”
+42.	Me	: “Oke makasih ya”
+43.	User2	: “Ya mbak sama-sama”
+
+```
 
 ### 4. Feedback and Incidence Analysis
 > Record your observations per prototype screen followed by reference, feedback, incidence, reason, and resolution.
