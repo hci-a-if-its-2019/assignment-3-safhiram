@@ -2,7 +2,7 @@
 
 ## Operating the Prototype
 
-<img src="home1.png">
+<img src="img/home1.png">
 High Fidelity Prototype Link Youtube
 https://youtu.be/AiMd5t_Re90
 
@@ -173,7 +173,7 @@ https://youtu.be/AiMd5t_Re90
 
 #### OBSERVATION 1
 
-<img src="obv-1.PNG">
+<img src="img/obv-1.PNG">
 
  - **Reference**: User1(Line : 45) , User2(Line: 33,39)
  - **Feedback**: 
@@ -196,7 +196,7 @@ https://youtu.be/AiMd5t_Re90
 
  
 #### OBSERVATION 2
-<img src="daftar.png">
+<img src="img/daftar.png">
 
  - **Reference**: -
  - **Feedback**: -
@@ -205,7 +205,7 @@ https://youtu.be/AiMd5t_Re90
  - **Resolution**: -
  
 #### OBSERVATION 3
-<img src="masuk.png">
+<img src="img/masuk.png">
 
  - **Reference**: -
  - **Feedback**: -
@@ -214,7 +214,7 @@ https://youtu.be/AiMd5t_Re90
  - **Resolution**: -
  
  #### OBSERVATION 4
-<img src="faq.png">
+<img src="img/faq.png">
 
  - **Reference**: 
  <p>User1(Line : 19)</p>
@@ -227,7 +227,7 @@ https://youtu.be/AiMd5t_Re90
  - **Resolution**: -
  
  #### OBSERVATION 5
-<img src="search.png">
+<img src="img/search.png">
 
  - **Reference**: -
  - **Feedback**: -
@@ -236,7 +236,7 @@ https://youtu.be/AiMd5t_Re90
  - **Resolution**: -
  
  #### OBSERVATION 6
-<img src="kontak.png">
+<img src="img/kontak.png">
 
  - **Reference**: -
  - **Feedback**: -
@@ -245,7 +245,7 @@ https://youtu.be/AiMd5t_Re90
  - **Resolution**: -
  
  #### OBSERVATION 7
-<img src="troll.png">
+<img src="img/troll.png">
 
  - **Reference**: -
  - **Feedback**: -
@@ -254,7 +254,7 @@ https://youtu.be/AiMd5t_Re90
  - **Resolution**: -
  
   #### OBSERVATION 8
-<img src="obv-data.PNG">
+<img src="img/obv-data.PNG">
 
  - **Reference**:
   <p>User1(Line : 41)</p>
@@ -278,7 +278,7 @@ https://youtu.be/AiMd5t_Re90
 
  
   #### OBSERVATION 9
-<img src="obv-makanan.PNG">
+<img src="img/obv-makanan.PNG">
 
  - **Reference**:
  <p>User1( Line : 26-30,37)</p>
@@ -295,7 +295,7 @@ https://youtu.be/AiMd5t_Re90
  <p>Add food image and “Tambah” button to choose some menu.</p>
  
   #### OBSERVATION 10
-<img src="obv-minuman.PNG">
+<img src="img/obv-minuman.PNG">
 
  - **Reference**:
  <p>User1(Line : 37)</p>
@@ -312,7 +312,7 @@ https://youtu.be/AiMd5t_Re90
  <p>Add food image and “Tambah” button to choose some menu.</p>
  
   #### OBSERVATION 11
-<img src="obv-cemilan.PNG">
+<img src="img/obv-cemilan.PNG">
 
  - **Reference**:
  <p>User1(Line : 37)</p>
@@ -335,7 +335,7 @@ https://youtu.be/AiMd5t_Re90
 
 
 ### Sketch
-<img src="sketch.PNG">
+<img src="img/sketch.PNG">
 
 <p>Link to my freehand sketch on invison</p>
 https://projects.invisionapp.com/freehand/document/UikyRiVdo
