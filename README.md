@@ -340,6 +340,23 @@ https://youtu.be/AiMd5t_Re90
 <p>Link to my freehand sketch on invison</p>
 https://projects.invisionapp.com/freehand/document/UikyRiVdo
 
+#### Page that i make revision
+##### Home page
+<img src="img/home_sketch1.jpg">
+
+##### Data Customer and Data Pesanan page / Confirmation page
+<img src="img/data_sketch.jpg">
+
+##### List of food page
+<img src="img/makanan_sketch1.jpg">
+
+##### List of beverage page
+<img src="img/minuman_sketch1.jpg">
+
+##### List of snacks page
+<img src="img/cemilan_sketch.jpg">
+
+
 ### Design Rationale
 <p>I designed first prorotype from some evaluation in my assignment-1. Then i do usability evaluation to get some breakdowns to make my design is more better.</p>
 <p>In this evaluation, i change the place of FAQ buttin and the name of FAQ button, so the user will more understand, when the user want to get information about How to order some food in this website. Then, when i give instruction to the user to order some food. The user confuse where is the list of the menu. User think that to add some food, the user go to "makanan","minuman" or "cemilan" page. So i change those page with add some button to add some menu. When the user add some menu, i make cancel order button because when the user add some food, by accident the user make mistake to choose a menu. The in confirmation page, i change the design 'Data Pesanan' , i make a table , so the user is more easy to read. I add some button to add and subtract directly too</p>
